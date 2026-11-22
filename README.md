@@ -119,6 +119,7 @@
 - [GitKraken](https://www.gitkraken.com/) - A beautiful, cross-platform Git client. ![Freeware][Freeware Icon]
 - [I'm Only Resting](http://www.swensensoftware.com/im-only-resting) -A feature-rich WinForms-based HTTP client [![Open-Source Software][OSS Icon]](https://github.com/swensensoftware/im-only-resting) ![Freeware][Freeware Icon]
 - [Insomnia](http://insomnia.rest) - A modern REST client with a beautiful interface. ![Open-Source Software][OSS Icon] ![Freeware][Freeware Icon]
+- [NextJSON](https://nextjson.com/) - Free online nested JSON parser, formatter and viewer that runs in the browser. ![Freeware][Freeware Icon]
 - [Keylord](https://protonail.com/products/keylord) Cross-platform GUI client for Redis, LevelDB and Memcached key-value databases.
 - [Mamp](https://www.mamp.info/en/) - Local server environment. ![Freeware][Freeware Icon]
 - [Meld](http://meldmerge.org/) - A visual diff and merge tool. [![Open-Source Software][OSS Icon]](https://gitlab.gnome.org/GNOME/meld/) ![Freeware][Freeware Icon]
